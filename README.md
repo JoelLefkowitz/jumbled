@@ -2,7 +2,7 @@
 
 Pick elements from an array at random.
 
-![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/jumbled/review.yml)
+![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/jumbled/review.yaml)
 ![Version](https://img.shields.io/npm/v/jumbled)
 ![Downloads](https://img.shields.io/npm/dw/jumbled)
 ![Size](https://img.shields.io/bundlephobia/min/jumbled)
